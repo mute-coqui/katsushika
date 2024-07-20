@@ -1,0 +1,23 @@
+{
+    "background": "#2B2E2B",
+    "black": "#140E0E",
+    "blue": "#44567D",
+    "brightBlack": "#524E4D",
+    "brightBlue": "#8E9EC4",
+    "brightCyan": "#C1D9DE",
+    "brightGreen": "#CBCBA9",
+    "brightPurple": "#A496AB",
+    "brightRed": "#F8D9D0",
+    "brightWhite": "#FAF2EA",
+    "brightYellow": "#F3E2C4",
+    "cursorColor": "#ADADAD",
+    "cyan": "#85B2B5",
+    "foreground": "#D4D4D4",
+    "green": "#6D8C74",
+    "name": "katsushika",
+    "purple": "#6B506E",
+    "red": "#A02C37",
+    "selectionBackground": "#7B8C87",
+    "white": "#DBD2CE",
+    "yellow": "#E6D172"
+}
